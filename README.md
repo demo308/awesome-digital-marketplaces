@@ -10,3 +10,6 @@
 - https://www.buymeacoffee.com/
 - https://sellix.com/
 - https://www.lemonsqueezy.com/
+- https://payhip.com/
+- https://www.parcelroblox.com/
+- https://onpointrblx.com/
