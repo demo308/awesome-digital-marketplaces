@@ -18,3 +18,4 @@
 - https://www.shopify.com/
 - https://www.spri.ng
 - https://thrivecart.com
+- https://sell.app/
