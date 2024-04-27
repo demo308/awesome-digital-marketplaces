@@ -21,3 +21,4 @@
 - https://sell.app/
 - https://en.wikipedia.org/wiki/List_of_online_marketplaces
 - https://www.stickermule.com
+- https://www.cafepress.com/
