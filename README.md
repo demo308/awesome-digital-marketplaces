@@ -1,4 +1,4 @@
-# awesome-digital-products [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# awesome-digital-marketplaces [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 - https://gumroad.com/
 - https://www.tebex.io/
