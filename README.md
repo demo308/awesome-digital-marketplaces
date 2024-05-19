@@ -23,3 +23,4 @@
 - https://www.stickermule.com
 - https://www.cafepress.com/
 - https://clearlydev.com/
+- https://www.g2a.com/sellers/
